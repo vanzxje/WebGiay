@@ -1,0 +1,19 @@
+D:\LTWeb\FOODBOY-NHOM7 - Copy\FoodBoy\bin\Shop_Giay.dll.config
+D:\LTWeb\FOODBOY-NHOM7 - Copy\FoodBoy\bin\Shop_Giay.dll
+D:\LTWeb\FOODBOY-NHOM7 - Copy\FoodBoy\bin\Shop_Giay.pdb
+D:\LTWeb\FOODBOY-NHOM7 - Copy\FoodBoy\obj\Debug\Shop_Giay.dll
+D:\LTWeb\FOODBOY-NHOM7 - Copy\FoodBoy\obj\Debug\Shop_Giay.pdb
+D:\LTWeb\FOODBOY-NHOM7 - Copy\Shop_Giay\bin\Shop_Giay.dll.config
+D:\LTWeb\FOODBOY-NHOM7 - Copy\Shop_Giay\bin\Shop_Giay.dll
+D:\LTWeb\FOODBOY-NHOM7 - Copy\Shop_Giay\bin\Shop_Giay.pdb
+D:\LTWeb\FOODBOY-NHOM7 - Copy\Shop_Giay\obj\Debug\Shop_Giay.csprojResolveAssemblyReference.cache
+D:\LTWeb\FOODBOY-NHOM7 - Copy\Shop_Giay\obj\Debug\Shop_Giay.dll
+D:\LTWeb\FOODBOY-NHOM7 - Copy\Shop_Giay\obj\Debug\Shop_Giay.pdb
+D:\DoAn\Shop_Giay\bin\Shop_Giay.dll.config
+D:\DoAn\Shop_Giay\bin\Shop_Giay.dll
+D:\DoAn\Shop_Giay\bin\Shop_Giay.pdb
+D:\DoAn\Shop_Giay\obj\Debug\Shop_Giay.csproj.AssemblyReference.cache
+D:\DoAn\Shop_Giay\obj\Debug\Shop_Giay.csproj.CoreCompileInputs.cache
+D:\DoAn\Shop_Giay\obj\Debug\Shop_Giay.csproj.CopyComplete
+D:\DoAn\Shop_Giay\obj\Debug\Shop_Giay.dll
+D:\DoAn\Shop_Giay\obj\Debug\Shop_Giay.pdb

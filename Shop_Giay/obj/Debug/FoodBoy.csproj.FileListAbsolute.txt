@@ -1,0 +1,12 @@
+D:\FoodBoy\FoodBoy\bin\FoodBoy.dll.config
+D:\FoodBoy\FoodBoy\bin\FoodBoy.dll
+D:\FoodBoy\FoodBoy\bin\FoodBoy.pdb
+D:\FoodBoy\FoodBoy\obj\Debug\FoodBoy.csprojResolveAssemblyReference.cache
+D:\FoodBoy\FoodBoy\obj\Debug\FoodBoy.dll
+D:\FoodBoy\FoodBoy\obj\Debug\FoodBoy.pdb
+D:\LTWeb\FOODBOY-NHOM7\FoodBoy\bin\FoodBoy.dll.config
+D:\LTWeb\FOODBOY-NHOM7\FoodBoy\bin\FoodBoy.dll
+D:\LTWeb\FOODBOY-NHOM7\FoodBoy\bin\FoodBoy.pdb
+D:\LTWeb\FOODBOY-NHOM7\FoodBoy\obj\Debug\FoodBoy.csprojResolveAssemblyReference.cache
+D:\LTWeb\FOODBOY-NHOM7\FoodBoy\obj\Debug\FoodBoy.dll
+D:\LTWeb\FOODBOY-NHOM7\FoodBoy\obj\Debug\FoodBoy.pdb
