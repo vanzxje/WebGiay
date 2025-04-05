@@ -1,7 +1,7 @@
 # Website Bán Giày
 
 ## Giới thiệu
-- Đồ Án Cơ Sở 1 tại trường.
+- Đây là đồ án môn học Cơ Sở 1 được thực hiện tại trường.
 - Thành viên: 2.
 - Website Bán Giày là một nền tảng trực tuyến cho phép người dùng dễ dàng tìm kiếm, mua sắm các loại giày thể thao, giày công sở, giày thời trang và nhiều loại giày khác. Dự án nhằm mang đến trải nghiệm mua sắm tiện lợi và dễ dàng cho khách hàng qua giao diện thân thiện và chức năng dễ sử dụng.
 
